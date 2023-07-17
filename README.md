@@ -14,9 +14,8 @@ En esta etapa, deberás:
          - Mostrar la información completa del libro registrado.
     + Salir del programa
         - Mantener el programa en funcionamiento hasta que el usuario decida salir.
-- Desarrollar los bloques de instrucciones en las funciones especificadas en el código fuente inicial para cada opción.
 - Documentar el código fuente.
 
 ## Notas
 - Se deberá respetar la estructura de código fuente inicial y editar el código en los huecos habilitados para ello.
-- Se deberán utilizar obligatoriamente las funciones aportadas en el código inicial.
+- **Se deberán utilizar obligatoriamente las funciones aportadas en el código inicial**.
